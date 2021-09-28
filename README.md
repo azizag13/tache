@@ -1,12 +1,12 @@
-# FullMERN_auth
-Fullstack MERN Authentication code
+# tache_auth
+
 
 
 Token based Authentication with MongoDB, Express, React and Node simple REST api signIn and SignUp 
 
 
 Start Node Server
-- yarn start
+- npm run start-server
 
 
 Serving PORT
