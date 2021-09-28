@@ -1,0 +1,30 @@
+.loge button {
+    position: relative;
+    width: 100px;
+    top: 50px;
+}
+.logee input {
+    position: relative;
+    left: 350px;
+    justify-content: center;
+    width: 350px;
+}
+.logee label {
+    position: relative;
+    right: 110px;
+    justify-content: center;
+}
+.logee button {
+  position: relative;
+  width: 200px;
+  height: 40px;
+  top: 50px;
+}
+.logee h1 {
+  position: relative;
+  color: #3c7ab7;
+}
+.signup {
+  position: relative;
+  top: 60px;
+}

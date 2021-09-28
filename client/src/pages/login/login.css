@@ -1,0 +1,24 @@
+.loge input {
+    position: relative;
+    left: 350px;
+    justify-content: center;
+    width: 350px;
+}
+.loge label {
+      position: relative;
+      right: 110px;
+      justify-content: center;
+}
+.loge button {
+    position: relative;
+    width: 100px;
+    top: 50px;
+}
+.loge h1 {
+    position: relative;
+    color: #3c7ab7;
+}
+.login {
+    position: relative;
+    top: 60px;
+}
